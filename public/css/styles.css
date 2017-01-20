@@ -54,8 +54,18 @@ header h1 span.green{
 	color:#61a64f;
 }
 
+header h1 span.hugegreen{
+	color:#61a64f;
+	font-size:96px; 
+}
+
 header h1 span.red{
 	color:#eb263a;
+}
+
+header h1 span.hugered{
+	color:#eb263a;
+	font-size:96px;
 }
 
 header h2{
